@@ -20,4 +20,6 @@ Some Issues and Possible Answers (from MisinfoCon DC breakout)
 8. This might be a throwback to the world of “gatekeepers”
   * Maybe we have even stronger gatekeepers now (platforms); with standards it would be an open process/multistakeholder
 9. This might exclude legit publishers
+  * Work with existing journalism groups to make sure all memebers, especially new ones, are aware.
 10. Every approved source looks the same, making it hard for humans to distinguish
+  * Most of what Certification will do will work in the background. Influence on end-users not as crucial.
